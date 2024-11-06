@@ -102,6 +102,11 @@ A aplicação gera um PDF com o título **"Resultado da Validação dos Registro
 - O algoritmo de validação de CPF/CNPJ foi desenvolvido manualmente, sem bibliotecas externas, para atender aos requisitos do teste.
 - A aplicação foi projetada para processar grandes volumes de dados. No entanto, para arquivos muito grandes, é recomendável rodar em um ambiente com recursos adequados de memória e processamento.
 
+## Sobre o Desenvolvedor
+
+Desenvolvido por [José Roberto](https://www.linkedin.com/in/jos%C3%A9-roberto-dev/) - Confira meu perfil no LinkedIn!
+
+
 ## Considerações Finais
 
 Este projeto demonstra habilidades no desenvolvimento de soluções escaláveis, validação de dados, e geração de relatórios. Ele pode ser adaptado para outros cenários de validação de dados e processamento em larga escala.
