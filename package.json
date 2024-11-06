@@ -1,0 +1,28 @@
+{
+  "name": "teste-vaga-fullstack",
+  "version": "1.0.0",
+  "description": "Você foi designado para desenvolver uma aplicação que deve lidar com grandes volumes de dados. Você deve rodar as seguintes validações e tratativas para cada um dos dados do arquivo e mostrar um retorno ao concluir a rotina. A aplicação será responsável por fornecer uma massa de dados considerável (cerca de 30GB) e deve ser capaz de lidar com dados fornecidos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.1",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "pdfkit": "^0.15.1",
+    "pg": "^8.13.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/chalk": "^0.4.31",
+    "@types/node": "^22.9.0",
+    "@types/pdfkit": "^0.13.5"
+  }
+}
